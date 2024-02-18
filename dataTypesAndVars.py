@@ -13,3 +13,10 @@ True    # equal to 1
 False   # equal to 0
 
 print(False == 0)
+
+# variables (dynamically allocated, strongly typed (cant change type later))
+name = 'nathan'  # no type specification
+print("hello", name)
+
+# var names cant start with a number and the only sp char allowed is '_'
+my_age = 30
