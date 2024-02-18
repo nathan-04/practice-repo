@@ -11,7 +11,12 @@ print("2 + 2 =", 2+2)
 print("hello", end='|')
 print("world")
 
-# user input
+# user input (input returns as a string)
 user_name = input("(prompt here) enter name: ")
-user_age = input("your age: ")
+user_age = input("your age: ") # not a number
 print("hello", user_name, "your age is", user_age)
+
+strNum = '10'
+str = 'the number 10'
+print(int(strNum))
+# print(int(str)) this doesnt work
