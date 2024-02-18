@@ -1,4 +1,4 @@
-# Test repo
+# Practice repo for python and git
 
-A new repo to test creating one in vscode rather than on GitHub.
-And to run through basics of python
+A new repo to practice using git and GitHub.
+Also learning python with YouTube video "Learn Python in ~75 minutes" by Tech With Tim.
