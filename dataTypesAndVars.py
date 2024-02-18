@@ -11,8 +11,11 @@
 # Bool - capitalize the word
 True    # equal to 1
 False   # equal to 0
-
 print(False == 0)
+
+# casting
+float_to_int = int(124.5)  # truncates
+print(float_to_int)
 
 # variables (dynamically allocated, strongly typed (cant change type later))
 name = 'nathan'  # no type specification
